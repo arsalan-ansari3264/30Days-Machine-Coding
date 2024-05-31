@@ -1,1 +1,1 @@
-![screen shot](image.png)
+![screen shot](./src//assets/image.png)
